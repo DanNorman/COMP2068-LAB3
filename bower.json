@@ -1,0 +1,23 @@
+{
+  "name": "comp2068-lab3",
+  "description": "COMP2068 Lab 3 Deployed to Azure",
+  "main": "",
+  "authors": [
+    "DanNorman <Daniel.Norman@MyGeorgian.ca>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DanNorman/COMP2068-LAB3",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
